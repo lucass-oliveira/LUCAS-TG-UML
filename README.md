@@ -26,6 +26,8 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 
 *O "Sistema de Gestão Médica” é uma aplicação de software desenvolvida para auxiliar médicos e pacientes na organização, armazenamento e acesso seguro a informações médicas, históricos de pacientes, prescrições, resultados de exames e outras funcionalidades relacionadas à área da saúde.*
 
+## Demanda
+![Demanda](docs/demanda.png)
 
 # Diagrama de casos de uso
 
@@ -103,3 +105,6 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 - *Ator Principal:* Médico
 - *Ator Secundário:* Paciente
 - *Descrição:* O médico visualiza sua agenda de consultas, incluindo os horários marcados com os pacientes, facilitando o gerenciamento de consultas e atendimentos.
+
+- ## Diagrama de classe de domínio
+- ![Diagrama de classe de domínio](docs/diagrama_de_classe.png)
