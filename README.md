@@ -106,5 +106,6 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 - *Ator Secundário:* Paciente
 - *Descrição:* O médico visualiza sua agenda de consultas, incluindo os horários marcados com os pacientes, facilitando o gerenciamento de consultas e atendimentos.
 
+
 - ## Diagrama de classe de domínio
 - ![Diagrama de classe de domínio](docs/diagrama_de_classe.png)
