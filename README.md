@@ -109,3 +109,6 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 
 - ## Diagrama de classe de domínio
 - ![Diagrama de classe de domínio](docs/diagrama_de_classe.png)
+
+- ## Diagrama de Sequencia inicial
+- ![Sequencia_inicial](docs/sequencia_inicial.png)
