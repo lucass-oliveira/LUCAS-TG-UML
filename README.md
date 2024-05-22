@@ -111,6 +111,7 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 - ![Diagrama de classe de domínio](docs/diagrama_de_classe.png)
 
 - ## Diagrama de Sequencia inicial
+- o diagrama de sequência inicial se concentra no fluxo básico e principal do caso de uso, sem entrar em detalhes de interações secundárias ou opcionais.
 - ![sequencia_inicial](docs/sequencia_inicial1.jpg)
 - ![sequencia_inicial](docs/sequencia_inicial2.jpg)
 
