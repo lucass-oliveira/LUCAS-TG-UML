@@ -113,10 +113,10 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 - ## Diagrama de Sequencia inicial
 
 - ## Diagrama de Sequencia Detalhado
-- ![Diagrama de Sequencia Detalhado](docs/medico_ver_pacientes.png)
-- ![Diagrama de Sequencia Detalhado](docs/medico_enviar_receita.png)
-- ![Diagrama de Sequencia Detalhado](docs/paciente_marcar_consulta.png)
-- ![Diagrama de Sequencia Detalhado](docs/paciente_enviar_exames.png)
-- ![Diagrama de Sequencia Detalhado](docs/medico_ver_consulta.png)
-- ![Diagrama de Sequencia Detalhado](docs/paciente_listar_receita.png)
-- ![Diagrama de Sequencia Detalhado](docs/medico_exame_historico.png)
+- ![medico_ver_pacientes](docs/medico_ver_pacientes.png)
+- ![medico_enviar_receita](docs/medico_enviar_receita.png)
+- ![paciente_marcar_consulta](docs/paciente_marcar_consulta.png)
+- ![paciente_enviar_exames](docs/paciente_enviar_exames.png)
+- ![medico_ver_consulta](docs/medico_ver_consulta.png)
+- ![paciente_lista_receita](docs/paciente_listar_receita.png)
+- ![medico_exame_historico](docs/medico_exame_historico.png)
