@@ -119,5 +119,8 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 - ![paciente_lista_receita](docs/paciente_listar_receita.png)
 - ![medico_exame_historico](docs/medico_exame_historico.png)
 
+-  ## Diagrama de Sequencia Detalhado
+-  
+
 - ## Diagrama de Classe de Projeto
 - ![diagrama_de_classe de projeto](docs/classe_de_projeto.jpg)
