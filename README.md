@@ -24,7 +24,7 @@ Lucas Bittencourt de Oliveira, TIA: 42219851 || RA: 10409476
 
 # Descrição do projeto
 
-*O "Sistema de Gestão Médica” é uma aplicação de software desenvolvida para auxiliar médicos e pacientes na organização, armazenamento e acesso seguro a informações médicas, históricos de pacientes, prescrições, resultados de exames e outras funcionalidades relacionadas à área da saúde.*
+*O sistema será um software de cadastro de funcionários, permitindo centralização das informações, validação automática de dados, controle de acesso por níveis, busca eficiente e gestão simplificada para facilitar a administração de recursos humanos. *
 
 ## Demanda
 ![Demanda](docs/demanda.png)
